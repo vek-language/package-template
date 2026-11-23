@@ -1,1 +1,8 @@
-# no "main" function!
+# Package.vek
+# A custom package file
+
+// Test function: `is_active()` after loading the package.
+func is_active() int {  
+    print("Package is active!");
+    ret 0;
+}
